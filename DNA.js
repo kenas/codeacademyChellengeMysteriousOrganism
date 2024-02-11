@@ -175,7 +175,6 @@ const survivorsResult = () => {
     return survivors;
 }
 
-
 //console.log(pAequorFactory(1, mockUpStrand));
 const pAequor1 =  pAequorFactory(2, mockUpStrand);
 
