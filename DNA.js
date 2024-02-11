@@ -178,7 +178,6 @@ const survivorsResult = () => {
 //console.log(pAequorFactory(1, mockUpStrand));
 const pAequor1 =  pAequorFactory(2, mockUpStrand);
 
-
 //console.log(pAequor1.mutate());
 //console.log(pAequor1.compareDNA(pAequor1));
 //console.log(pAequor1.willLikelySurvive(pAequor2));
